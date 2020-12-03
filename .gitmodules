@@ -1,0 +1,3 @@
+[submodule "warehouse-env"]
+	path = warehouse-env
+	url = git@github.com:eczy/warehouse-env.git
